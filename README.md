@@ -1,1 +1,1 @@
-# simple-calculator-site
+# SIMPLE CALCULATOR SITE USING HTML,CS, AND JS
